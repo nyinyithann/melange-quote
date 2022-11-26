@@ -1,0 +1,100 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "You will face many defeats in life, but never let yourself be defeated",
+      "author": "maya angelou",
+      "contributerId": 1
+    },
+    {
+      "id": 2,
+      "quote": "Dont give up t2",
+      "author": "N2T",
+      "contributerId": 1
+    },
+    {
+      "id": 11,
+      "quote": "zan za za",
+      "author": "Test Author 2",
+      "contributerId": 1
+    },
+    {
+      "id": 20,
+      "quote": "While destructuring record fields, it is possible to bind variable names that are different than the record field names:",
+      "author": "aaa ff",
+      "contributerId": 1
+    },
+    {
+      "id": 21,
+      "quote": "While destructuring record fields, it is possible to bind variable names that are different than the record field names:",
+      "author": "aaa ff",
+      "contributerId": 1
+    },
+    {
+      "id": 22,
+      "quote": "While destructuring record fields, it is possible to bind variable names that are different than the record field names:",
+      "author": "aaa ff",
+      "contributerId": 1
+    },
+    {
+      "id": 40,
+      "quote": "test",
+      "author": "Test Author 1",
+      "contributerId": 1
+    },
+    {
+      "id": 41,
+      "quote": "test",
+      "author": "Test Author 1",
+      "contributerId": 1
+    },
+    {
+      "id": 42,
+      "quote": "test",
+      "author": "Test Author 1",
+      "contributerId": 1
+    },
+    {
+      "id": 44,
+      "quote": "Hello World abc",
+      "author": "Test Author 2",
+      "contributerId": 1
+    },
+    {
+      "id": 45,
+      "quote": "Hello World s",
+      "author": "Test Author 2",
+      "contributerId": 1
+    },
+    {
+      "id": 46,
+      "quote": "Hello World s",
+      "author": "Test Author 2",
+      "contributerId": 1
+    },
+    {
+      "id": -2147483648,
+      "quote": "zzzz",
+      "author": "z",
+      "contributerId": 1
+    },
+    {
+      "id": 47,
+      "quote": "teafdfsda",
+      "author": "fdsafsd",
+      "contributerId": 1
+    },
+    {
+      "id": 48,
+      "quote": "yan yan",
+      "author": "ffdafasdds",
+      "contributerId": 1
+    }
+  ],
+  "contributers": [
+    {
+      "id": 1,
+      "name": "ryan zan"
+    }
+  ]
+}
